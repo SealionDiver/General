@@ -1,2 +1,2 @@
 # General
-General repository for any one-off projects.
+General repository for any one-off projects or experimental ideas.
